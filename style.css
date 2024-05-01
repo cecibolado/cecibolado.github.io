@@ -7,7 +7,25 @@
 body{
     color: purple;
 }
+img{
+    width: 400;
+}
+.contenedor{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    float:left;
 
-#header{
-    background-color: blueviolet;
+}
+.Datos{
+        width: 900px;
+        height: 150px;
+        color: grey;
+        display: flex;
+        padding: 20px;
+        align-items: center;
+        justify-content: space-around;
+}
+head {
+    border: 1px;scroll-padding-inline: ;
 }
