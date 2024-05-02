@@ -46,8 +46,7 @@ span{
 
 .Sobre-mi{
     color: black;
-    display: flex;
-    justify-content:center;
+    padding-inline: 100px;
 }
 
 ol{
