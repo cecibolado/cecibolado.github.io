@@ -1,17 +1,21 @@
 *{
-    margin: 5px;
-    padding: 5px;
+    margin: 0px;
+    padding: 0px;
+
 }
 
 
 
 body{
-    color: purple;
+    background-color: lightcoral;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
     padding-block: 10px;
 }
 
 img{
     height: 200px;
+    border-radius: 50%;
 }
 
 h1{
