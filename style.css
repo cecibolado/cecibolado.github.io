@@ -1,31 +1,41 @@
 *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+    margin: 5px;
+    padding: 5px;
 }
+
+
 
 body{
     color: purple;
+    padding-block: 10px;
 }
+
 img{
-    width: 400;
+    height: 200px;
+}
+
+h1{
+    text-align: center;
+
 }
 .contenedor{
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    float:left;
+    border-top: 2px;
+    border: 1px;
+    color: rgb(212, 72, 154);
+    display: inline-block;
+    padding-left: 50px;
+    text-align: left;
 
 }
 .Datos{
-        width: 900px;
-        height: 150px;
-        color: grey;
-        display: flex;
-        padding: 20px;
-        align-items: center;
-        justify-content: space-around;
-}
-head {
-    border: 1px;scroll-padding-inline: ;
+    width: 150px;
+    height: 150px;
+    color: purple;
+    display: flex;
+    padding: 20px;
+    align-items: flex-end;
+    justify-content:left
+    }
+.barraizquierda{
+
 }
